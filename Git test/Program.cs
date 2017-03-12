@@ -12,6 +12,7 @@ namespace Git_test
         {
             Console.WriteLine("Hello man!");
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
